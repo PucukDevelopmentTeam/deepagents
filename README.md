@@ -14,12 +14,12 @@ a **planning tool**, **sub agents**, access to a **file system**, and a **detail
 ## Installation
 
 ```bash
-pip install deepagents
+pip3 install deepagents
 ```
 
 ## Usage
 
-(To run the example below, will need to `pip install tavily-python`)
+(To run the example below, will need to `pip3 install tavily-python`)
 
 ```python
 import os

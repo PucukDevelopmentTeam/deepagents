@@ -14,7 +14,7 @@
 
 1. **Install dependencies** (already done):
    ```bash
-   pip install deepagents tavily-python
+   pip3 install deepagents tavily-python
    ```
 
 2. **Set up environment variables**:
